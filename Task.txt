@@ -4,10 +4,7 @@
 3- ItemEdit Form
 4- Styling
 
-Nuk u perdor Json-Server, pasi nuk mundet te aksesoheshin nested object.
-Root-i supozohej te ishte : //http://localhost:4000/jobsites/jobsiteid/items/itemid.
-Krijova Mock Data dhe i ruajta te gjitha te dhenat ne state.
-Eshte kodi perkates per vendosjen e te dhenave ne Json-server.
+
 
 
 
